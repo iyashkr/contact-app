@@ -1,0 +1,18 @@
+{
+    "expo": {
+        "scheme": "acme",
+        "web": {
+            "bundler": "metro"
+        },
+        "name": "contacts",
+        "slug": "contacts",
+        "plugins": [
+            [
+                "expo-contacts",
+                {
+                    "contactsPermission": "Allow Contacts App to access your contacts."
+                }
+            ]
+        ]
+    }
+}
