@@ -1,14 +1,20 @@
-# Expo Router Example
+![](https://img.shields.io/badge/Application-Contact_App-yellow.svg)
+![](https://img.shields.io/badge/Programming_Language-JavaScript-blue.svg)
+![](https://img.shields.io/badge/Framework_Used-React_Native-brown.svg)
+![](https://img.shields.io/badge/Dart_Version-2.18.6-skyblue.svg)
+![](https://img.shields.io/badge/Status-Complete-green.svg)
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+<h1 align="center">Contact App</h1>
 
-## 🚀 How to use
+## Description :
 
-```sh
-npx create-expo-app -e with-router
-```
+<p>Contact App made with react native where we can access phone contacts, search contacts and when clicked on contact name we can see the number with call and message button in a dismissable popup.</p>
 
-## 📝 Notes
+### <p align="center"> Screens </p>
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+<p align="center">
+<img src="https://i.postimg.cc/9XT2WpMc/image.png" width=200 /> 
+<img src="https://i.postimg.cc/MHtdWNfs/image.png" width=200 />
+<img src="https://i.postimg.cc/7hLSN6bV/image.png" width=200 />
+<img src="https://i.postimg.cc/Gt9sy5Sg/image.png" width=200 />
+</p>
